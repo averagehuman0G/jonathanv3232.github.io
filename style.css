@@ -113,6 +113,12 @@ ul.social li.linkedin a:hover {
 .card p, h3, button{
   text-align: center;
 }
+.card p {
+  font-size: 1.1em;
+}
 .show-me {
   width: 100%;
+}
+.project-thumbnail {
+  margin: 2% auto;
 }
