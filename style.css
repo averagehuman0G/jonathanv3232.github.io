@@ -30,6 +30,7 @@ h2 {
 }
 img {
   max-width: 90%;
+  max-height: 134px;
   display: block;
   margin: 0 auto;
 }
@@ -104,4 +105,14 @@ ul.social li.linkedin a:hover {
 }
 .bio {
   margin-top: 8%;
+}
+.card {
+  border: 2px solid rgba(0,0,0,.125);
+}
+
+.card p, h3, button{
+  text-align: center;
+}
+.show-me {
+  width: 100%;
 }
